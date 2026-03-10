@@ -60,7 +60,7 @@ Email: kulsum0805@gmail.com
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kulsum0580&show_icons=true&theme=tokyonight)
+Kulsum's GitHub stats
 
 ---
 
@@ -72,7 +72,7 @@ GitHub Streak
 
 ## 🏆 GitHub Trophies
 
-trophy
+Trophies
 
 ---
 
@@ -84,6 +84,7 @@ Activity Graph
 
 ## ⚙️ Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=python,c,cpp,flask,streamlit,mysql,git,github
+![Skills](https://skillicons.dev/icons?i=python,c,cpp,flask,streamlit,mysql,git,github,tensorflow
+
 
 -->
