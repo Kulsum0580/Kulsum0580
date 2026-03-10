@@ -60,7 +60,7 @@ Email: kulsum0805@gmail.com
 
 ## 📊 GitHub Stats
 
-GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kulsum0580&show_icons=true&theme=tokyonight)
 
 ---
 
