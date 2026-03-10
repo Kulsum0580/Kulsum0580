@@ -56,6 +56,34 @@ Seeking opportunities to contribute as a Software Engineer, AI/ML Engineer, or D
 
 LinkedIn: http://linkedin.com/in/umme-kulsum-ab1194260
 Email: kulsum0805@gmail.com
+---
 
+## 📊 GitHub Stats
+
+GitHub Stats
+
+---
+
+## 🔥 GitHub Streak
+
+GitHub Streak
+
+---
+
+## 🏆 GitHub Trophies
+
+trophy
+
+---
+
+## 📈 GitHub Activity Graph
+
+Activity Graph
+
+---
+
+## ⚙️ Tech Stack
+
+![Skills](https://skillicons.dev/icons?i=python,c,cpp,flask,streamlit,mysql,git,github
 
 -->
