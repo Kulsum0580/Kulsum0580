@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Umme%20Kulsum&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20✦%20ML%20✦%20Software%20Engineer%20✦%20Data%20Science&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Umme%20Kulsum&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20%E2%9C%A6%20ML%20%E2%9C%A6%20Software%20Engineer%20%E2%9C%A6%20Data%20Science&descAlignY=58&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_kulsum_.08)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kulsum0805@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kulsum0580)
-[![Profile Views](https://visitcount.itsvg.in/api?id=Kulsum0580&icon=6&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Kulsum0580&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -20,28 +20,14 @@
 
 ## 👩‍💻 About Me
 
-```python
-class UmmeKulsum:
-    def __init__(self):
-        self.name      = "Umme Kulsum"
-        self.role      = "Final-Year Undergraduate Student"
-        self.focus     = ["Software Engineer", "AI/ML Engineer"]
-        self.location  = "India 📍"
-        self.email     = "kulsum0805@gmail.com"
+🔭 **Working On** — Data Science & AI Projects  
+👯 **Looking to Collaborate** — AI/ML & Open Source Tools  
+🤝 **Looking for Help** — ML Optimization & AI Deployment  
+🌱 **Currently Learning** — Python, Deep Learning & LLMs  
+💬 **Ask Me About** — Data Science, AI/ML & Python  
+⚡ **Fun Fact** — AI is the future — and I’m building it!
 
-    def currently(self):
-        return {
-          "🔭 working_on"  : "Data Science & AI Projects",
-          "👯 collaborate" : "AI/ML & Open Source Tools",
-          "🤝 help_with"   : "ML Optimization & AI Deployment",
-          "🌱 learning"    : "Python, Deep Learning & LLMs",
-          "💬 ask_me"      : "Data Science, AI/ML & Python",
-          "⚡ fun_fact"    : "AI is the future — I'm building it!"
-        }
-
-me = UmmeKulsum()
-print(me.currently())
-```
+> 🎯 Final-Year Undergraduate | 📍 India | 📧 kulsum0805@gmail.com
 
 -----
 
@@ -88,7 +74,7 @@ print(me.currently())
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Kulsum0580&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=Kulsum0580&theme=nord&column=4&margin-w=8&margin-h=8&no-frame=true"/>
 
 </div>
 
@@ -98,17 +84,7 @@ print(me.currently())
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kulsum0580&theme=tokyo-night&hide_border=false&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
------
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=Kulsum0580&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kulsum0580&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -129,7 +105,8 @@ print(me.currently())
 <div align="center">
 
 
-> 🚀 Seeking opportunities as a **Software Engineer**, **AI/ML Engineer**, or **Data Science Professional** — where I can apply my programming & analytical skills to build impactful technology solutions.
+> 🚀 Seeking opportunities as a **Software Engineer**, **AI/ML Engineer**, or **Data Science Professional**  
+> *Applying programming & analytical skills to build impactful technology solutions.*
 
 <br/>
 
@@ -142,7 +119,5 @@ print(me.currently())
 </div>
 
 <div align="center">
-
-⭐ From [Kulsum0580](https://github.com/Kulsum0580) — *Let’s build the future together!* ⭐
-
+⭐ From <a href="https://github.com/Kulsum0580">Kulsum0580</a> — <em>Let's build the future together!</em> ⭐
 </div>
