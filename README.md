@@ -1,8 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:7928ca&height=200&section=header&text=Umme%20Kulsum&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%E2%9C%A6%20ML%20%E2%9C%A6%20Software%20Engineer%20%E2%9C%A6%20Data%20Science&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Umme%20Kulsum&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20✦%20ML%20✦%20Software%20Engineer%20✦%20Data%20Science&descAlignY=58&descSize=18" width="100%"/>
+</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Umme+Kulsum!;💻+Aspiring+Software+Engineer;🤖+AI+%26+ML+Enthusiast;📊+Data+Science+Explorer;🚀+Building+the+Future+with+AI;🌱+Final-Year+CS+Undergraduate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Umme+Kulsum!;💻+Aspiring+Software+Engineer;🤖+AI+%26+ML+Enthusiast;📊+Data+Science+Explorer;🚀+Building+the+Future+with+AI)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,11 +18,7 @@
 
 -----
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
-
-<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+## 👩‍💻 About Me
 
 ```python
 class UmmeKulsum:
@@ -45,52 +43,44 @@ me = UmmeKulsum()
 print(me.currently())
 ```
 
-<br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 -----
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
+## 🛠️ Tech Stack
 
-### 👩‍💻 Languages
+**👩‍💻 Languages**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-### 🤖 AI / ML / Data Science
+**🤖 AI / ML / Data Science**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
-### 🌐 Web & Frameworks
+**🌐 Web & Frameworks**
 
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### ☁️ Cloud & Databases
+**☁️ Cloud & Databases**
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🔧 Tools & Platforms
+**🔧 Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 -----
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Kulsum0580&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="49%" />
 <img src="https://nirzak-streak-stats.vercel.app/?user=Kulsum0580&theme=tokyonight&hide_border=false" width="49%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kulsum0580&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kulsum0580&theme=tokyonight&hide_border=false&layout=compact" width="42%" />
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 -----
 
@@ -102,15 +92,13 @@ print(me.currently())
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 -----
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-[![Kulsum’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kulsum0580&theme=tokyo-night&hide_border=false&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kulsum0580&theme=tokyo-night&hide_border=false&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -126,15 +114,13 @@ print(me.currently())
 
 -----
 
-## ✍️ Random Dev Quote
+## ✍️ Dev Quote
 
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 -----
 
@@ -143,23 +129,20 @@ print(me.currently())
 <div align="center">
 
 
-> 🚀 *Seeking opportunities as a **Software Engineer**, **AI/ML Engineer**, or **Data Science Professional***
-> 
-> *Where I can apply my programming & analytical skills to build impactful technology solutions.*
+> 🚀 Seeking opportunities as a **Software Engineer**, **AI/ML Engineer**, or **Data Science Professional** — where I can apply my programming & analytical skills to build impactful technology solutions.
 
 <br/>
 
-### 📚 Currently Exploring
-
-![ML](https://img.shields.io/badge/🔬_Advanced_ML_Techniques-20232a?style=for-the-badge) ![SE](https://img.shields.io/badge/🏗️_Software_Engineering-20232a?style=for-the-badge) ![LLM](https://img.shields.io/badge/🧠_LLMs_&_Generative_AI-20232a?style=for-the-badge) ![DataApps](https://img.shields.io/badge/📱_Data_Driven_Apps-20232a?style=for-the-badge)
+![ML](https://img.shields.io/badge/🔬_Advanced_ML-20232a?style=for-the-badge) ![SE](https://img.shields.io/badge/🏗️_Software_Engineering-20232a?style=for-the-badge) ![LLM](https://img.shields.io/badge/🧠_LLMs_&_GenAI-20232a?style=for-the-badge) ![Apps](https://img.shields.io/badge/📱_Data_Driven_Apps-20232a?style=for-the-badge)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,50:00d9ff,100:0d1117&height=120&section=footer&animation=twinkling" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=twinkling" width="100%"/>
+</div>
 
 <div align="center">
 
-⭐ *From [Kulsum0580](https://github.com/Kulsum0580) — Let’s build the future together!* ⭐
+⭐ From [Kulsum0580](https://github.com/Kulsum0580) — *Let’s build the future together!* ⭐
 
 </div>
-
